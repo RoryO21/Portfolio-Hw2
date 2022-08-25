@@ -1,0 +1,37 @@
+* {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-color: rgb(27, 70, 95);
+
+  padding: 1, 8, 8, 1
+}
+
+
+body {
+  background-color: rgb(68, 66, 50);
+}
+
+h1 {
+  text-align: center;
+  line-height: 100px;
+  background-color: rgb(51, 130, 149);
+  border: 15px solid rgb(32, 52, 61);
+  margin-left: 300px;
+  margin-right: 300px;
+
+}
+
+section {
+  text-align: center
+}
+
+
+
+
+ul {
+  background-color: rgb(51, 130, 149);
+  border: 15px solid rgb(32, 52, 61);
+  margin-left: 250px;
+  margin-right: 250px;
+
+
+}
